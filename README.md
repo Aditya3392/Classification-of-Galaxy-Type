@@ -1,4 +1,4 @@
-# Electronic Shopping Machine Using 8051 Microcontroller and Embedded C #
+# Galaxy Type Classification With Sub-categorization Using Deep Learning Framework #
 
 ## Our team include:<br>Aditya Phatak<br>Aryan Kamat<br>Nitish Kumar Pathak
 
